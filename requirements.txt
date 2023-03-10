@@ -1,0 +1,7 @@
+termcolor
+pyfiglet
+getpass
+requests
+beautifulsoup4
+datetime
+getpass
